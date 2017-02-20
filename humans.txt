@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jonathan Altman   jaltman@developmental.io @jamanndota
 
 # THANKS
 
